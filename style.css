@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  padding: 0;
+  background:  #A31700;
+}
+
+.bottom_image{
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  background-repeat: repeat-x;
+}
+
+.center{
+  display: block;
+  margin: auto;
+
+}
+
+.right-side{
+  margin: auto;
+  text-align: right;
+}
+
+#boxDead{
+  margin-top: 125px;
+  width: 500px;
+  height: auto;
+}
+#submit{
+  margin-top: 15px;
+  width: 80px;
+}
+
+#postText{
+  text-align:center;
+
+}
