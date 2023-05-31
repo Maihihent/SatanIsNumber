@@ -1,0 +1,87 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("resource/devil-satan.gif");
+  font-family: "Courier New";
+  animation: moveIt 10s linear infinite;
+  padding:0px;
+  margin:0px;
+}
+/*Animation BG */
+@keyframes moveIt {
+  from {background-position: bottom right;}
+  to {background-position: top left;}
+}
+
+.bottom_image{
+  margin: auto;
+  padding: 100px;
+  width: 200px;
+
+}
+
+
+.right-side{
+  margin: auto;
+  text-align: right;
+}
+
+/* -------------------------Text Header------------- */
+#boxDead{
+  margin-top: 125px;
+  width: 350px;
+  height: 100px;
+  text-align: center;
+  font-size: large;
+}
+/* -------------------Text Header Below------------- */
+.center{
+  display: block;
+  margin: auto;
+
+}
+
+/* ------------------------ Text Header-------------- */
+
+/*-----------------BUTTON TO SUBMITED--------------*/
+#submit{
+  margin-top: 15px;
+  width: 80px;
+}
+/*-----------------BUTTON TO SUBMITED--------------*/
+
+/*----------------------ALL THE LINK -----------------*/
+#linkerOfHell{
+
+  margin-top: 500px;
+
+}
+
+#postText{
+  text-align:center;
+  color: aliceblue;
+  margin-top: 200px;
+
+}
+/*----------------------ALL THE LINK -----------------*/
+
+/* ----------------LEADERBOARD-------------------------*/
+#ALLTHEWISHING{
+  background-color: aliceblue;
+  text-align: center;
+  color: crimson;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#DATABASE{
+  text-align: center;
+
+}
+table{
+  margin-top: 100px;
+}
+
+
+td{
+  padding: 50px;
+}
